@@ -1,0 +1,5 @@
+Karakter
+Szó
+Mondat
+Számok keresése (lista)
+Legnagyobb szám és legkisebb különbsége
